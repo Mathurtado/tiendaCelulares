@@ -146,7 +146,7 @@ button{
 
 button:hover{ background-color:#c0392b; }
 
-/* ── MISC ── */
+
 .logo{
     position:absolute;
     top:16px;
@@ -238,4 +238,11 @@ footer{
     color:rgba(255,255,255,0.5);
     font-size:12px;
     margin:0;
+}
+
+
+footer nav{
+    background:none;
+    border-bottom:none;
+    font-size:14px;
 }
